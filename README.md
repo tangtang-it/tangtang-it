@@ -1,4 +1,4 @@
-![](./github-header-banner.png)
+![](./assets/github-header-banner.png)
 <!-- 头部横幅 -->
 <h1 align="center">☕ 糖糖IT | TangTangIT</h1>
 <h3 align="center">全栈开发者 · 咖啡因驱动 · 开源世界的淘金者</h3>
