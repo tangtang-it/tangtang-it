@@ -1,19 +1,12 @@
-![](./assets/github-header-banner.png)
-<!-- 头部横幅 -->
-<h1 align="center">☕ 糖糖IT | TangTangIT</h1>
-<h3 align="center">全栈开发者 · 咖啡因驱动 · 开源世界的淘金者</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="./assets/readme/hero.svg" width="100%" alt="糖糖IT | TangTangIT - 全栈开发者·咖啡因驱动·开源世界的淘金者">
 </p>
 
 ---
 
-### 👋 关于我
+<p align="center">
+  <img src="./assets/readme/section-about.svg" width="100%" alt="关于我">
+</p>
 
 - 🔭 **正在探索**：AI 与 Web 应用的交汇点，利用大模型赋能轻量级产品
 - 🧠 **技术信仰**：热爱把复杂的技术封装成傻瓜式工具，让开发者事半功倍
@@ -22,7 +15,9 @@
 
 ---
 
-### 🛠️ 技术栈与工具箱
+<p align="center">
+  <img src="./assets/readme/section-tech.svg" width="100%" alt="技术栈与工具箱">
+</p>
 
 | 领域 | 技术选型 |
 | :--- | :--- |
@@ -35,7 +30,9 @@
 
 ---
 
-### 📊 近期的“淘金”动态
+<p align="center">
+  <img src="./assets/readme/section-activity.svg" width="100%" alt="近期的淘金动态">
+</p>
 
 <!-- 这里会自动展示你最近创建或推送的仓库，不需要手动写 -->
 ```bash
@@ -43,3 +40,4 @@
 - m3u8在线视频播放器 | 多语言文本转语音的TTS·免费在线
 - 📖 研究 AI Agent 与浏览器自动化结合
 - ☕ 寻找更好的手冲咖啡豆（误）
+```

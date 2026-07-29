@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="400" viewBox="0 0 1200 400"
+     role="img" aria-labelledby="hero-title hero-desc">
+  <title id="hero-title">糖糖IT | TangTangIT - Full-Stack Developer</title>
+  <desc id="hero-desc">Personal profile banner with coffee theme, showing developer name, subtitle, tech stack, and terminal-style demonstration.</desc>
+
+  <defs>
+    <linearGradient id="bg-grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1120"/>
+      <stop offset="100%" stop-color="#131C2E"/>
+    </linearGradient>
+    <linearGradient id="accent-bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="50%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0.5" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="term-grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1C2533"/>
+      <stop offset="100%" stop-color="#162030"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="400" fill="url(#bg-grad)" rx="24"/>
+
+  <!-- Subtle top glow -->
+  <rect x="0" y="0" width="1200" height="200" fill="url(#glow)" rx="24"/>
+
+  <!-- Top accent bar -->
+  <rect x="0" y="0" width="1200" height="3" fill="url(#accent-bar)" rx="1.5"/>
+
+  <!-- Subtle background code dots -->
+  <g fill="#38BDF8" opacity="0.04">
+    <circle cx="80" cy="350" r="3"/>
+    <circle cx="200" cy="320" r="2"/>
+    <circle cx="400" cy="370" r="2.5"/>
+    <circle cx="600" cy="340" r="2"/>
+    <circle cx="850" cy="360" r="3"/>
+    <circle cx="1050" cy="330" r="2"/>
+    <circle cx="1120" cy="370" r="2.5"/>
+  </g>
+
+  <!-- ===== LEFT: Profile info ===== -->
+  <g transform="translate(56, 52)">
+
+    <!-- Coffee name -->
+    <text x="0" y="0" font-family="system-ui, -apple-system, 'PingFang SC', 'Noto Sans SC', sans-serif"
+          font-size="52" font-weight="800" fill="#E6EDF3" letter-spacing="2">
+      ☕ 糖糖IT
+    </text>
+    <text x="0" y="52" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif"
+          font-size="26" font-weight="400" fill="#8B949E" letter-spacing="4">
+      TangTangIT
+    </text>
+
+    <!-- Accent line -->
+    <rect x="0" y="70" width="72" height="3" rx="1.5" fill="#38BDF8"/>
+
+    <!-- Subtitle -->
+    <text x="0" y="110" font-family="system-ui, -apple-system, 'PingFang SC', sans-serif"
+          font-size="18" fill="#B0C4DE">
+      全栈开发者 · 咖啡因驱动 · 开源世界的淘金者
+    </text>
+
+    <!-- Contact pills -->
+    <g transform="translate(0, 148)">
+      <rect x="0" y="0" width="220" height="36" rx="18" fill="#151E2E" stroke="#2A3A52" stroke-width="1.2"/>
+      <text x="14" y="23" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#8B949E">
+        📧 tangtangit_service@163.com
+      </text>
+    </g>
+
+    <g transform="translate(0, 196)">
+      <rect x="0" y="0" width="220" height="36" rx="18" fill="#151E2E" stroke="#2A3A52" stroke-width="1.2"/>
+      <text x="14" y="23" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#8B949E">
+        🌐 onecomedaker.cn
+      </text>
+    </g>
+
+    <!-- Tech badges row (for visual appeal) -->
+    <g transform="translate(0, 264)">
+      <rect x="0" y="0" width="80" height="26" rx="13" fill="#1E293B"/>
+      <text x="16" y="18" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#38BDF8" font-weight="600">Next.js</text>
+
+      <rect x="90" y="0" width="72" height="26" rx="13" fill="#1E293B"/>
+      <text x="100" y="18" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#00ADD8" font-weight="600">Golang</text>
+
+      <rect x="172" y="0" width="66" height="26" rx="13" fill="#1E293B"/>
+      <text x="181" y="18" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#02569B" font-weight="600">Flutter</text>
+
+      <rect x="248" y="0" width="60" height="26" rx="13" fill="#1E293B"/>
+      <text x="257" y="18" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#FF5D01" font-weight="600">Astro</text>
+
+      <rect x="318" y="0" width="92" height="26" rx="13" fill="#1E293B"/>
+      <text x="328" y="18" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#3178C6" font-weight="600">TypeScript</text>
+    </g>
+  </g>
+
+  <!-- ===== RIGHT: Terminal visualization ===== -->
+  <g transform="translate(620, 48)">
+    <rect x="0" y="0" width="524" height="304" rx="14" fill="url(#term-grad)" stroke="#2A3A52" stroke-width="1.2"/>
+
+    <!-- Terminal window decoration -->
+    <rect x="0" y="0" width="524" height="36" rx="14" fill="#1C2533"/>
+    <rect x="0" y="22" width="524" height="14" fill="#1C2533"/>
+
+    <!-- Window dots -->
+    <circle cx="20" cy="18" r="5" fill="#F87171"/>
+    <circle cx="38" cy="18" r="5" fill="#FBBF24"/>
+    <circle cx="56" cy="18" r="5" fill="#34D399"/>
+
+    <!-- Window title -->
+    <text x="262" y="24" font-family="ui-monospace, SFMono-Regular, 'Menlo', monospace"
+          font-size="12" fill="#8B949E" text-anchor="middle" font-weight="500">~/profile.sh — zsh</text>
+
+    <!-- Terminal content -->
+    <g transform="translate(24, 60)">
+      <!-- Line 1 -->
+      <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, 'Menlo', monospace" font-size="16" fill="#38BDF8">$</text>
+      <text x="16" y="0" font-family="ui-monospace, SFMono-Regular, 'Menlo', monospace" font-size="16" fill="#E6EDF3">whoami</text>
+      <text x="0" y="28" font-family="ui-monospace, SFMono-Regular, 'Menlo', monospace" font-size="15" fill="#34D399">⟹ Full-stack Developer</text>
+
+      <!-- Line 2 -->
+      <text x="0" y="64" font-family="ui-monospace, SFMono-Regular, 'Menlo', monospace" font-size="16" fill="#38BDF8">$</text>
+      <text x="16" y="64" font-family="ui-monospace, SFMono-Regular, 'Menlo', monospace" font-size="16" fill="#E6EDF3">stack --list</text>
+
+      <text x="0" y="92" font-family="ui-monospace, SFMono-Regular, 'Menlo', monospace" font-size="14" fill="#F59E0B">⟹ Next.js  Go  Flutter  Astro  TypeScript</text>
+      <text x="0" y="114" font-family="ui-monospace, SFMono-Regular, 'Menlo', monospace" font-size="14" fill="#F59E0B">⟹ Vue  React  Java  Python  Docker</text>
+
+      <!-- Line 3 -->
+      <text x="0" y="148" font-family="ui-monospace, SFMono-Regular, 'Menlo', monospace" font-size="16" fill="#38BDF8">$</text>
+      <text x="16" y="148" font-family="ui-monospace, SFMono-Regular, 'Menlo', monospace" font-size="16" fill="#E6EDF3">motto</text>
+      <text x="0" y="176" font-family="ui-monospace, SFMono-Regular, 'Menlo', monospace" font-size="15" fill="#F472B6">⟹ 把复杂的技术封装成傻瓜式工具</text>
+
+      <!-- Line 4 -->
+      <text x="0" y="212" font-family="ui-monospace, SFMono-Regular, 'Menlo', monospace" font-size="16" fill="#38BDF8">$</text>
+      <text x="16" y="212" font-family="ui-monospace, SFMono-Regular, 'Menlo', monospace" font-size="16" fill="#E6EDF3">status</text>
+      <text x="0" y="240" font-family="ui-monospace, SFMono-Regular, 'Menlo', monospace" font-size="15" fill="#38BDF8">⟹ OPEN FOR WORK  ←</text>
+    </g>
+  </g>
+</svg>
