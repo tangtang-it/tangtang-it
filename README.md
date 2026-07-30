@@ -10,7 +10,7 @@
 
 - 🔭 **正在探索**：AI 与 Web 应用的交汇点，利用大模型赋能轻量级产品
 - 🧠 **技术信仰**：热爱把复杂的技术封装成傻瓜式工具，让开发者事半功倍
-- 🏠 **博客/作品集**：[onecomedaker.cn](https://onecomedaker.cn) 
+- 🏠 **博客/作品集**：[tangtangit.com ](https://tangtangit.com) 
 - 📫 **联系我**：tangtangit_service@163.com
 
 ---
