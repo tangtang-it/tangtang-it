@@ -10,7 +10,8 @@
 
 - 🔭 **正在探索**：AI 与 Web 应用的交汇点，利用大模型赋能轻量级产品
 - 🧠 **技术信仰**：热爱把复杂的技术封装成傻瓜式工具，让开发者事半功倍
-- 🌅 **最新作品**：[Morning Quote](https://morning-quote.com/) - 极简免登录晨间语录卡片生成器
+- 🚀 **最新作品**：[MDPreview](https://mdpreview.dev/) - 零延迟、100% 客户端本地隐私保护的 Markdown 实时预览与在线编辑器
+- 🌅 **精选作品**：[Morning Quote](https://morning-quote.com/) - 极简免登录晨间语录卡片生成器
 - 🏠 **博客/作品集**：[tangtangit.com ](https://tangtangit.com)
 - 📫 **联系我**：tangtangit_service@163.com
 
@@ -38,6 +39,7 @@
 <!-- 这里会自动展示你最近创建或推送的仓库，不需要手动写 -->
 ```bash
 # 最近在忙：
+- 🚀 上线发布 MDPreview (https://mdpreview.dev) 极简 Markdown 实时预览与在线编辑器
 - m3u8在线视频播放器 | 多语言文本转语音的TTS·免费在线
 - 📖 研究 AI Agent 与浏览器自动化结合
 - ☕ 寻找更好的手冲咖啡豆（误）
