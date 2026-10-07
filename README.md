@@ -12,6 +12,9 @@
 - 🧠 **技术信仰**：热爱把复杂的技术封装成傻瓜式工具，让开发者事半功倍
 - 🚀 **最新作品**：[MDPreview](https://mdpreview.dev/) - 零延迟、100% 客户端本地隐私保护的 Markdown 实时预览与在线编辑器
 - ⚡ **实时雷达**：[Codex Reset Radar](https://codexresetlive.com/) - 实时跟踪 OpenAI Codex 额度重置动态与本地倒计时看板
+- 🔊 **语音合成**：[FreeTTS](https://tts.tangtangit.com/) - 100% 免费在线文本转语音工具，支持多语言 AI 神经拟真音色与 MP3 导出
+- 📺 **流媒体播放**：[m3u8 播放器](https://m3u8player.tangtangit.com/) - 免插件在线 HLS / m3u8 直播与点播流解析播放器
+- 📊 **格式转换**：[DBF to Excel 工具](https://dbf.tangtangit.com/) - 中文环境高性能 DBF 与 Excel (XLSX) 纯前端双向互转工具
 - 🌅 **精选作品**：[Morning Quote](https://morning-quote.com/) - 极简免登录晨间语录卡片生成器
 - 🏠 **博客/作品集**：[tangtangit.com ](https://tangtangit.com)
 - 📫 **联系我**：tangtangit_service@163.com
