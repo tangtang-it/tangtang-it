@@ -11,6 +11,7 @@
 - 🔭 **正在探索**：AI 与 Web 应用的交汇点，利用大模型赋能轻量级产品
 - 🧠 **技术信仰**：热爱把复杂的技术封装成傻瓜式工具，让开发者事半功倍
 - 🚀 **最新作品**：[MDPreview](https://mdpreview.dev/) - 零延迟、100% 客户端本地隐私保护的 Markdown 实时预览与在线编辑器
+- ⚡ **实时雷达**：[Codex Reset Radar](https://codexresetlive.com/) - 实时跟踪 OpenAI Codex 额度重置动态与本地倒计时看板
 - 🌅 **精选作品**：[Morning Quote](https://morning-quote.com/) - 极简免登录晨间语录卡片生成器
 - 🏠 **博客/作品集**：[tangtangit.com ](https://tangtangit.com)
 - 📫 **联系我**：tangtangit_service@163.com
@@ -40,6 +41,7 @@
 ```bash
 # 最近在忙：
 - 🚀 上线发布 MDPreview (https://mdpreview.dev) 极简 Markdown 实时预览与在线编辑器
+- ⚡ 上线发布 Codex Reset Radar (https://codexresetlive.com) 实时跟踪 Codex 额度刷新动态与倒计时工具
 - m3u8在线视频播放器 | 多语言文本转语音的TTS·免费在线
 - 📖 研究 AI Agent 与浏览器自动化结合
 - ☕ 寻找更好的手冲咖啡豆（误）
